@@ -16,7 +16,7 @@ spec:
       values: |
         image:
           repository: gcr.io/gene-for-testing/ci/dio/devops-toolkit
-          tag: 62ed092
+          tag: a1445a6
         ingress:
           host: pr-devops-toolkit-1-preview.34.127.3.4.sslip.io
       version: v3
