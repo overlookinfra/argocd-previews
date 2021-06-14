@@ -18,7 +18,7 @@ spec:
           repository: gcr.io/gene-for-testing/ci/dio/devops-toolkit
           tag: 07cee2e
         ingress:
-          host: pr-devops-toolkit-4-preview.34.127.3.4.sslip.io
+          host: pr-devops-toolkit-4-preview.
       version: v3
     path: helm
     repoURL: https://github.com/puppetlabs/devops-toolkit.git
